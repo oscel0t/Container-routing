@@ -52,5 +52,6 @@ The API has been tested using **Postman** to ensure correct functionality.
   ],
   "total_cost": 5
 }
+```
+![Screenshot 2025-05-01 174200](https://github.com/user-attachments/assets/abc4b31f-f2cc-4541-ab34-3b449eeec074)
 
-![Screenshot 2025-05-01 174200](https://github.com/user-attachments/assets/dc6cb9a0-9875-41c3-9db1-4b9d8f3f1bcf)
