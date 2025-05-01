@@ -39,7 +39,9 @@ The API has been tested using **Postman** to ensure correct functionality.
     { "from": "A", "to": "C", "cost": 10 }
   ]
 }
+```
 **Response:**
+```json
 {
   "plan": [
     {
@@ -51,4 +53,4 @@ The API has been tested using **Postman** to ensure correct functionality.
   "total_cost": 5
 }
 
-used postman api 
+![Screenshot 2025-05-01 174200](https://github.com/user-attachments/assets/dc6cb9a0-9875-41c3-9db1-4b9d8f3f1bcf)
